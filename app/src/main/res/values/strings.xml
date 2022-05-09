@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_header">Here\'s some cat facts: </string>
+    <string name="refresh_button_txt">Refresh cat facts</string>
+    <string name="detail_fragment_header">The fact: </string>
+    <string name="error_msg">Sorry, there\'s no data to display.\nPlease make sure that you are connected to the internet.</string>
+</resources>
