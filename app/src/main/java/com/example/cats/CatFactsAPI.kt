@@ -8,3 +8,4 @@ interface CatFactsAPI {
     @GET ("facts/random?&amount=30")
     suspend fun getFacts(): Response<CatFactModel>
 }
+//PS.I wouldn't normally hardcode the "amount" but it's a small app so it was quicker
